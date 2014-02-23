@@ -1,0 +1,7 @@
+GIT TIPS
+
+git remote -v
+# View existing remotes
+
+# push changes
+git push origin master   
