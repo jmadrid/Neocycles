@@ -1,0 +1,17 @@
+GIT 
+
+Pre-requis : 
+
+cd  ~/.ssh && ssh-keygen
+cat id_rsa.pub
+
+Add public key (id_rsa.pub) to github jmadrid >> SSH Keys
+
+
+
+git@github.com:jmadrid/Neocycles.git
+
+
+
+
+
